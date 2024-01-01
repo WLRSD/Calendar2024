@@ -1,5 +1,6 @@
 <h1 align="center"> <b>2024</b> </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=WLRSD&color=yellow&label=Quantos+viram" alt="Visualizações" /> </p>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNDMxNWU2YTYtODgxYS00OWRjLWFkMTUtNmVjZjkwZGY5MmM2IiwidCI6IjBhNjdkY2Q4LTU5MWMtNDk4NC1hOGNlLTM1NTlkODBhOTJjZiJ9">Link: Calendar2024</a>
 <h5 align="justify" text-indent:40px;> Esse ano, pretendo organizar todas as áreas da minha vida. Porém, sabendo que talvez me falte <b>"motivação"</b>, pretendo criar a minha própria <b>ferramenta</b> que vai me impulsionar na carreira e me obrigar a fazer o que tenho que fazer no dia a dia.</h5>
 
 <h6 align="center">Essa ferramenta será feita com: <a href="https://www.microsoft.com/pt-br/microsoft-365/excel">Excel</a> e <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi/">PowerBi</a>. Além de usar um pouco de <a href="https://www.python.org/">Python</a>. Então é um projeto que irei me desafiar em diversos pontos, sendo os <b>principais: </b></h6> <br>
